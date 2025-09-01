@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # DVT Elevator Challenge - My Technical Assessment Submission
 
 Hey there! This is my take on the DVT Elevator Challenge – a fun yet challenging technical assessment where I built a C# console app to simulate elevator operations in a busy building. Think of it as a mini control system for managing elevators, passengers, and floors, all while keeping things efficient, safe, and easy to expand. I poured in my best practices for clean code, solid design, and real-world usability, making sure it feels like something you'd find in a real building management system.
@@ -110,6 +109,3 @@ This is solid, but here's what I'd love to add:
 - Saving logs to a database.
 - Smarter dispatching with priorities.
 - Hooking into external APIs for more realism.
-=======
-# .net
->>>>>>> 70395e3a6507a7830211def066ea17f4ad35ca9e
